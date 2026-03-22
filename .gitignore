@@ -1,0 +1,9 @@
+clamav-1.4.2.win.x64/
+venv/
+__pycache__/
+*.pyc
+*.log
+secret.key
+uploaded_documents/
+encrypted_documents/
+.env
